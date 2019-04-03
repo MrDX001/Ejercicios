@@ -9,6 +9,7 @@ public class Interfaz {
         Suma s= new Suma();
         s.operacion();
         
+        
     }
     
 }
